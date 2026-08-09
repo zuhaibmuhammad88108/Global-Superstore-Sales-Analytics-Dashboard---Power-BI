@@ -1,38 +1,38 @@
-# Global-Superstore-Sales-Analytics-Dashboard---Power-BI
+# 🌎 Global Superstore Sales Analytics Dashboard
 
-An interactive **Power BI dashboard** built to analyze sales, profit, customers, products, orders, and regional performance using the Global Superstore dataset.
+> 📊 An interactive **Power BI Business Intelligence dashboard** built to analyze sales, profitability, customers, products, orders, and global business performance.
 
 ---
 
 ## 📊 Dashboard Preview
 
-### 1. Executive Sales Overview
+### 🏢 1. Executive Sales Overview
 
-screenshots/Executive Sales Overview.png
-
----
-
-### 2. Sales & Profitability Analysis
-
-![Sales & Profitability Analysis](screenshots/sales-profitability-analysis.jpg)
+![Executive Sales Overview](PASTE_IMAGE_LINK_HERE)
 
 ---
 
-### 3. Global Geographic Analysis
+### 📈 2. Sales & Profitability Analysis
 
-![Global Geographic Analysis](screenshots/global-geographic-analysis.jpg)
-
----
-
-### 4. Customer Analysis
-
-![Customer Analysis](screenshots/customer-analysis.jpg)
+![Sales & Profitability Analysis](PASTE_IMAGE_LINK_HERE)
 
 ---
 
-## 🔑 Key KPIs
+### 🌍 3. Global Geographic Analysis
 
-| KPI | Value |
+![Global Geographic Analysis](PASTE_IMAGE_LINK_HERE)
+
+---
+
+### 👥 4. Customer Analysis
+
+![Customer Analysis](PASTE_IMAGE_LINK_HERE)
+
+---
+
+## 🔑 Key Performance Indicators
+
+| 📌 KPI | 📊 Value |
 |---|---:|
 | 💰 Total Sales | **$12.64M** |
 | 📈 Total Profit | **$1.47M** |
@@ -43,44 +43,65 @@ screenshots/Executive Sales Overview.png
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Microsoft Power BI**
-- **Power Query**
-- **DAX**
-- **Data Modeling**
-
----
-
 ## 🎯 Project Objective
 
-The objective of this project is to transform raw Global Superstore data into meaningful visual insights and provide an interactive dashboard for **data-driven business decision making**.
+The objective of this project is to transform raw **Global Superstore** data into meaningful business insights using Power BI and create an interactive dashboard that supports **data-driven decision making**.
 
 ---
 
-## ✨ Key Analysis
+## ✨ Key Features
 
-- 📈 Sales and profit trends
-- 💰 Profitability analysis
-- 📦 Product and category performance
-- 👥 Customer and segment analysis
-- 🌍 Regional and geographic analysis
-- 🛒 Order analysis
-- 🎯 Sales, profit, and margin targets
-- ⭐ Top-performing products and customers
+- 📈 Sales & Profit Trend Analysis
+- 💰 Profitability Analysis
+- 📦 Product & Category Performance
+- 👥 Customer Analysis
+- 🌍 Global Geographic Analysis
+- 🛒 Order & Segment Analysis
+- 🎯 Sales, Profit & Margin Targets
+- ⭐ Top Products & Customers
+- 📊 Interactive KPIs and Visualizations
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Usage |
+|---|---|
+| **Power BI** | Dashboard & Data Visualization |
+| **Power Query** | Data Cleaning & Transformation |
+| **DAX** | Measures & KPI Calculations |
+| **Data Modeling** | Relationships & Analytical Model |
+
+---
+
+## 💡 Business Questions Answered
+
+✔️ Which products generate the highest sales?
+
+✔️ Which categories are performing the best?
+
+✔️ Which customers generate the most revenue?
+
+✔️ Which regions contribute the most orders?
+
+✔️ How are sales and profits changing over time?
+
+✔️ Are sales and profit meeting their targets?
+
+✔️ Which customer segments perform best?
 
 ---
 
 ## 📁 Project Structure
 
 ```text
-Global-Superstore-PowerBI/
+Global-Superstore-Sales-Analytics-Dashboard/
 │
-├── README.md
-├── Global-Superstore-Dashboard.pbix
+├── 📊 SuperStore.pbix
+├── 📄 README.md
 │
-└── screenshots/
-    ├── executive-sales-overview.jpg
-    ├── sales-profitability-analysis.jpg
-    ├── global-geographic-analysis.jpg
-    └── customer-analysis.jpg
+└── 📁 screenshots/
+    ├── Executive Sales Overview
+    ├── Sales & Profitability Analysis
+    ├── Global Geographic Analysis
+    └── Customer Analysis
