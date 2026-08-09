@@ -8,7 +8,7 @@
 
 ### 🏢 1. Executive Sales Overview
 
-![Executive Sales Overview](PASTE_IMAGE_LINK_HERE)
+![Executive Sales Overview]([PASTE_IMAGE_LINK_HERE](https://github.com/zuhaibmuhammad88108/Global-Superstore-Sales-Analytics-Dashboard---Power-BI/blob/main/screenshots/Executive%20Sales%20Overview.png?raw=true))
 
 ---
 
