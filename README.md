@@ -8,7 +8,7 @@ An interactive **Power BI dashboard** built to analyze sales, profit, customers,
 
 ### 1. Executive Sales Overview
 
-![Executive Sales Overview](screenshots/executive-sales-overview.jpg)
+screenshots/Executive Sales Overview.png
 
 ---
 
