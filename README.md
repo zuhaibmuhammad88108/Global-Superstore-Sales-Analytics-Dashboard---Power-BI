@@ -26,7 +26,7 @@
 
 ### 👥 4. Customer Analysis
 
-![Customer Analysis](PASTE_IMAGE_LINK_HERE)
+![Customer Analysis](https://github.com/zuhaibmuhammad88108/Global-Superstore-Sales-Analytics-Dashboard---Power-BI/blob/main/screenshots/Customer%20Analysis.png?raw=true)
 
 ---
 
