@@ -1,6 +1,6 @@
 # Global-Superstore-Sales-Analytics-Dashboard---Power-BI
 
-> An interactive Power BI dashboard for analyzing sales, profit, customers, products, orders, and regional performance.
+An interactive **Power BI dashboard** built to analyze sales, profit, customers, products, orders, and regional performance using the Global Superstore dataset.
 
 ---
 
@@ -10,13 +10,19 @@
 
 ![Executive Sales Overview](screenshots/executive-sales-overview.jpg)
 
+---
+
 ### 2. Sales & Profitability Analysis
 
 ![Sales & Profitability Analysis](screenshots/sales-profitability-analysis.jpg)
 
+---
+
 ### 3. Global Geographic Analysis
 
 ![Global Geographic Analysis](screenshots/global-geographic-analysis.jpg)
+
+---
 
 ### 4. Customer Analysis
 
@@ -37,7 +43,7 @@
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 - **Microsoft Power BI**
 - **Power Query**
@@ -48,18 +54,19 @@
 
 ## 🎯 Project Objective
 
-The goal of this project is to transform raw Global Superstore data into meaningful visual insights and support **data-driven business decisions**.
+The objective of this project is to transform raw Global Superstore data into meaningful visual insights and provide an interactive dashboard for **data-driven business decision making**.
 
 ---
 
 ## ✨ Key Analysis
 
 - 📈 Sales and profit trends
-- 📦 Category and product performance
+- 💰 Profitability analysis
+- 📦 Product and category performance
 - 👥 Customer and segment analysis
 - 🌍 Regional and geographic analysis
-- 🎯 Sales, profit, and margin targets
 - 🛒 Order analysis
+- 🎯 Sales, profit, and margin targets
 - ⭐ Top-performing products and customers
 
 ---
