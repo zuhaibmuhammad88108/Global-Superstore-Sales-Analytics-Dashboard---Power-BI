@@ -42,10 +42,3 @@ An interactive **Power BI dashboard** built using the Global Superstore dataset 
 
 The goal of this project is to transform raw sales data into meaningful visual insights that help understand business performance and support data-driven decision making.
 
-## Preview
-
-Add your dashboard screenshots here.
-
----
-
-**Built with Microsoft Power BI 📊**
