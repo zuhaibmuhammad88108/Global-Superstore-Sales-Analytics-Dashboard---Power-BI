@@ -20,7 +20,7 @@
 
 ### 🌍 3. Global Geographic Analysis
 
-![Global Geographic Analysis](PASTE_IMAGE_LINK_HERE)
+![Global Geographic Analysis](https://github.com/zuhaibmuhammad88108/Global-Superstore-Sales-Analytics-Dashboard---Power-BI/blob/main/screenshots/Global%20Geographic%20Analysis.png?raw=true)
 
 ---
 
