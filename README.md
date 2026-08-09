@@ -14,7 +14,7 @@
 
 ### 📈 2. Sales & Profitability Analysis
 
-![Sales & Profitability Analysis](PASTE_IMAGE_LINK_HERE)
+![Sales & Profitability Analysis](https://github.com/zuhaibmuhammad88108/Global-Superstore-Sales-Analytics-Dashboard---Power-BI/blob/main/screenshots/Sales%20and%20Profitability%20Analysis.png?raw=true)
 
 ---
 
